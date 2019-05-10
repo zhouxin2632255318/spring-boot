@@ -18,6 +18,6 @@ public class HelloController extends SpringBootServletInitializer {
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
 		// TODO Auto-generated method stub
-		return builder.sources(HelloController.class);
+		return builder.sources(HelloController.class);    
 	}
 }
